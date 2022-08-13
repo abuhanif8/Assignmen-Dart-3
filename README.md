@@ -1,2 +1,2 @@
-# Assignmen-Dart-3
-Assignment on dart : 1. super keyword 2. asynchronous programming 3.Dart Exception
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
